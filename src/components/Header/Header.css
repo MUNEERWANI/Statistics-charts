@@ -1,0 +1,19 @@
+.header-container {
+    background-color: #333; 
+    color: #fff; 
+    padding: 20px; /* Padding around the content */
+    text-align: center; /* Center-align text */
+  }
+  
+  /* Header Title Styles */
+  h1 {
+    font-size: 36px; /* Font size for the main title */
+    margin: 0; /* Remove default margin */
+  }
+  
+  /* Header Subtitle Styles */
+  h2 {
+    font-size: 18px; /* Font size for the subtitle */
+    margin: 0; /* Remove default margin */
+  }
+  
