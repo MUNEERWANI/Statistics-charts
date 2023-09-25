@@ -9,6 +9,8 @@
 <p>Below are some screenshots of the project:</p>
 <ul>
     <li><img src="/screenshot.png" alt="Screenshot 1"></li>
+    ![alt text](https://github.com/MUNEERWANI/Statistics-charts/blob/screenshot.png?raw=true)
+
     <li><img src="/screenshotOnsampledata.png" alt="Screenshot 2"></li>
     <li><img src="/finalProjectWithAllFixes.png" alt="Screenshot 3"></li>
 </ul>
