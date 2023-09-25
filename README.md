@@ -6,7 +6,7 @@
 </ul>
 
 <h2>Project Screenshots</h2>
-<p>Below are some screenshots of the project:</p>
+<p>Below are some screenshots of the project:In case you are not able to see the images go to public folder of this project check screenshots of the project there</p>
 <ul>
     <li>![Screenshot 1](/screenshot.png?raw=true&t=123456789)
 </li>
