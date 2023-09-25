@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,3 +41,14 @@
     <p>If you have any questions or feedback, feel free to reach out to me at [Your Email Address].</p>
 </body>
 </html>
+=======
+<h1>The project is about performing some functionalities on the wine data ,</h1>
+<p>The data which is provided to us can be divided into various class</p>
+<h2>Tech stack</h2>
+<pre>
+React
+typescript
+</pre>
+<li></li>
+<img src="/screenshot.png">
+>>>>>>> a20c9112ecb68dbb88bc208155d1a592a5a230c6
