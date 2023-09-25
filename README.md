@@ -8,7 +8,8 @@
 <h2>Project Screenshots</h2>
 <p>Below are some screenshots of the project:</p>
 <ul>
-    <li><img src="/screenshot.png" alt="Screenshot 1"></li>
+    <li>![Screenshot 1](/screenshot.png?raw=true&t=123456789)
+</li>
     ![alt text](https://github.com/MUNEERWANI/Statistics-charts/blob/screenshot.png?raw=true)
 
     <li><img src="/screenshotOnsampledata.png" alt="Screenshot 2"></li>
