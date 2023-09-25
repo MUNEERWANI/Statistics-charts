@@ -3,6 +3,9 @@
 - Typescript
 - CSS
 
+- //Project created using Yarn CRA typescript
+- //No external dependency bootstrap , Tailwind
+
 ## Project Screenshots
 Below are some screenshots of the project: In case the pictures are not visible then please go to the public folder there all the three images are present which show what were problems in initial data giving NAN output on mean then screenshot when i allplied my functions on some sample data  screenshot of that , then how i took numbers from the data and did mean of only number no strings or any other data type
 
